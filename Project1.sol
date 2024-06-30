@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-contract TestContract {
+contract DivisionContract {
     uint public divident;
     uint public divisor;
     uint public result;
